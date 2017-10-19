@@ -1,0 +1,2 @@
+# gocompress
+Selfmade Compression Algorithms
